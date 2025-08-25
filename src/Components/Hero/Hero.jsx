@@ -16,7 +16,7 @@ const handleView = () => {
     <div id='home' className='hero'>
         {/* change image to something else */}
      
-     <h1><span>I'm Muhammad Toufeeq Parker,</span> a backend developer based in South Africa</h1>
+     <h1><span>I'm Muhammad Toufeeq Parker,</span> a software developer based in South Africa</h1>
      {/* add a description here */}
      <p></p>
      <div className="hero-action">
