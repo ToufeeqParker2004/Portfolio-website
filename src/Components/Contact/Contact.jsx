@@ -49,7 +49,7 @@ const Contact = () => {
            
         </div>
     </div>
-    <form onSubmit={onsubmit} className="contact-right">
+    <form onSubmit={onSubmit} className="contact-right">
         <label htmlFor="">Your Name</label>
         <input type="text"  placeholder='Enter Your Name' name='name'/>
         <label htmlFor="">Your email</label>
