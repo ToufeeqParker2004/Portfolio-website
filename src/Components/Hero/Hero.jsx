@@ -1,7 +1,7 @@
 import React from 'react'
 import './Hero.css'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
-import resume_pdf from '../../assets/MuhammadToufeeq_Parker_Resume.pdf'
+import resume_pdf from '../../assets/MuhammadToufeeqParker_CV.pdf'
 
 
   
